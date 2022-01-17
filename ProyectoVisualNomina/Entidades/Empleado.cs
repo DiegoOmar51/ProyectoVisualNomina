@@ -14,8 +14,5 @@ namespace ProyectoVisualNomina.Entidades
         public int Telefono { get; set; }
         public String EstadoCivil { get; set; }
         public String Estado { get; set; }
-
-
-
     }
 }
